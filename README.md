@@ -1,1 +1,1 @@
-In this project, we aim to train a neural network to identify topological magnetic phases from small angle neutron scattering (SANS) data. Since there is not that much SANS data available to us at this time, we will simulate magnetic phases using the micromagnetic simulator UBERMAG (https://ubermag.readthedocs.io/en/latest/index.html). 
+
