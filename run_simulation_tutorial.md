@@ -9,6 +9,6 @@ This is a tutorial for running Ubermag simulations on the remote cluster.
 
 5. Check on status of the simulation by typing 'squeue' into terminal. 
 
-6. When the simulations are done, you can copy the simulations to your personal computer using this command run from a new terminal on your local computer: 'scp -P2866 user@atom.mit.edu:<source file path > <destination file path> ' where the source file path is the file path on the server and the destination file path is the path on your local computer. 
+6. When the simulations are done, you can copy the simulations to your personal computer using this command run from a new terminal on your local computer: 'scp -P2866 user@atom.mit.edu:|source file| |path destination file path|' where the source file path is the file path on the server and the destination file path is the path on your local computer. 
 
 7. Now that the simulations are on your computer, you can more easily analyze them in Jupyter and with the UbermagSANS.py library. 
